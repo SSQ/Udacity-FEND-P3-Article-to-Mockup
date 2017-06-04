@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+# I have learnt some new elements of HTML5,such as <figure>,<figcaption>,<ins>,<sup>,<sub> that I made a mistake for typing <sub> instead of <sup> haha,<hr> and <s>.
+  And this part of exercise remind me of the use of <li> and <ol>, the former should be a child to the latter.
+# Maybe I have learnt something from Free Code Camp before,so I think it's very easy.
+# Nothing has been difficult.
+# Not yet, but I have learnt some new elements! And this has strength my memory of how to use these elements.
